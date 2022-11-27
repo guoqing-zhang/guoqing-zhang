@@ -4,7 +4,7 @@
 - 🎓 I am interested in interdisciplinary research involving
 -  **Deep Learning**
 -  **Bioinformatics** 
--  M**etagenomics **
+-  **Metagenomics**
 -  **Antibiotic Resistance**
 -  and **One Health**
 - 📫 zhangguoqing84@westlake.edu.cn
